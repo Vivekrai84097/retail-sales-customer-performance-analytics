@@ -109,23 +109,7 @@ Focuses on sales trends and time-based performance:
 
 ### Executive Overview
 
-![Executive Overview](Retail_Sales_Customer_Performance_Analytics/executive-overview.png.png)
-
-### Customer Analysis
-
-![Customer Analysis](Retail_Sales_Customer_Performance_Analytics/customer-analysis.png.png)
-
-### Product Analysis
-
-![Product Analysis](Retail_Sales_Customer_Performance_Analytics/product-analysis.png.png)
-
-### City Analysis
-
-![City Analysis](Retail_Sales_Customer_Performance_Analytics/city-analysis.png.png)
-
-### Trend Analysis
-
-![Trend Analysis](Retail_Sales_Customer_Performance_Analytics/trend-analysis.png.png)
+![Executive Overview](https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/executive-overview.png.png)
 
 ## SQL Analysis
 
