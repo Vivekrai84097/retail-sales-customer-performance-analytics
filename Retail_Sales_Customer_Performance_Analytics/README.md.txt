@@ -109,7 +109,23 @@ Focuses on sales trends and time-based performance:
 
 ### Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/executive-overview.png.png)
+<img src="https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/executive-overview.png.png" width="100%">
+
+### Customer Analysis
+
+<img src="https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/customer-analysis.png.png" width="100%">
+
+### Product Analysis
+
+<img src="https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/product-analysis.png.png" width="100%">
+
+### City Analysis
+
+<img src="https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/city-analysis.png.png" width="100%">
+
+### Trend Analysis
+
+<img src="https://raw.githubusercontent.com/Vivekrai84097/retail-sales-customer-performance-analytics/main/Retail_Sales_Customer_Performance_Analytics/trend-analysis.png.png" width="100%">
 
 ## SQL Analysis
 
