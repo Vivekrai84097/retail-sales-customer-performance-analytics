@@ -105,6 +105,32 @@ Focuses on sales trends and time-based performance:
 * Monthly performance details
 * Date-range filtering
 
+## Dashboard Preview
+
+Executive Overview
+
+
+
+
+Customer Analysis
+
+
+
+
+Product Analysis
+
+
+
+
+City Analysis
+
+
+
+
+Trend Analysis
+
+
+
 ## SQL Analysis
 
 SQL was used to perform business-focused analysis including:
