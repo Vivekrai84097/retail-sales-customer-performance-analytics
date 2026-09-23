@@ -108,19 +108,19 @@ Focuses on sales trends and time-based performance:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](executive-overview.png)
+![Executive Overview](screenshots/executive-overview.png)
 
 ### Customer Analysis
-![Customer Analysis](customer-analysis.png)
+![Customer Analysis](screenshots/customer-analysis.png)
 
 ### Product Analysis
-![Product Analysis](product-analysis.png)
+![Product Analysis](screenshots/product-analysis.png)
 
 ### City Analysis
-![City Analysis](city-analysis.png)
+![City Analysis](screenshots/city-analysis.png)
 
 ### Trend Analysis
-![Trend Analysis](trend-analysis.png)
+![Trend Analysis](screenshots/trend-analysis.png)
 
 ## SQL Analysis
 
